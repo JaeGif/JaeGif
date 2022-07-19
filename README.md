@@ -2,21 +2,21 @@
 
 
 # Current Toolbox
-![javascript-logo-small-ish](https://user-images.githubusercontent.com/105343665/179645714-f5b2e032-42ac-4a3c-83f4-f02fcbbbf2ee.png) 
-![python](https://user-images.githubusercontent.com/105343665/179645722-5f093c5a-0e4c-4cea-8690-1e55473b1bfd.png) 
-![css-3-logo-sall](https://user-images.githubusercontent.com/105343665/179645679-28da9fb0-4dc7-45b6-923f-3ad5d30c2b6d.png) 
-![html5-logo-small](https://user-images.githubusercontent.com/105343665/179645685-ddfd57b9-60c2-4a5e-8f9e-4dba7e575396.png) 
+![javascript](https://user-images.githubusercontent.com/105343665/179728140-a3cbef1f-1c85-47c5-af4d-4e5a2ead2d04.png)
+![python](https://user-images.githubusercontent.com/105343665/179728793-e766c3ed-6a0c-414f-aa95-a08f88af9c1b.png)
+![CSS3](https://user-images.githubusercontent.com/105343665/179728685-05a345fe-f937-4f65-adf7-086a518edc5f.png)
+![HTML](https://user-images.githubusercontent.com/105343665/179728158-51927444-4eb6-453a-9298-3d407d007ace.png)
 
 
 # Currently Learning: Front-End Stack
 
-![tailwind](https://user-images.githubusercontent.com/105343665/179645691-3072a674-380d-4654-af0c-8e50063875ed.png)
-![bootstrap](https://user-images.githubusercontent.com/105343665/179645699-a40fb577-69e1-45ec-a633-a0b114156947.png)
-![react](https://user-images.githubusercontent.com/105343665/179645739-becff479-c895-4588-a9f8-90b3a4846e43.png)
+![tailwind](https://user-images.githubusercontent.com/105343665/179728166-bf6aa998-b96f-436a-9c73-e3d1a3bcaa33.png)
+![bootstrap](https://user-images.githubusercontent.com/105343665/179728153-8b8949a7-1176-4477-816b-94e9cddddf65.png)
+![react](https://user-images.githubusercontent.com/105343665/179728163-4edfd222-e201-46e7-afef-1258e1380f21.png)
 
 
 # Next on the menu: Back-End Stack
 
-![typescript](https://user-images.githubusercontent.com/105343665/179645868-8543467b-0d5c-40f5-9fff-e3f018c9ecc1.png)
-![nodejs](https://user-images.githubusercontent.com/105343665/179645730-c63cab1b-ccde-463e-b5d5-a406099aaaaf.png)
-![mongoDB](https://user-images.githubusercontent.com/105343665/179649205-5250f82f-2f61-48ec-a99c-6ee7c0152e9d.png)
+![typescript](https://user-images.githubusercontent.com/105343665/179728136-2f21adf4-2c32-4a35-9ddd-e96ebb85d029.png)
+![node](https://user-images.githubusercontent.com/105343665/179728147-fe7c17e5-c4dc-4e46-88ab-8c7c1690ff93.png)
+![mongoDB](https://user-images.githubusercontent.com/105343665/179728142-03d224b0-494d-4294-8e05-c2ab02c632f0.png)
