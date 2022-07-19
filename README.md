@@ -19,3 +19,4 @@
 
 ![typescript](https://user-images.githubusercontent.com/105343665/179645868-8543467b-0d5c-40f5-9fff-e3f018c9ecc1.png)
 ![nodejs](https://user-images.githubusercontent.com/105343665/179645730-c63cab1b-ccde-463e-b5d5-a406099aaaaf.png)
+![mongoDB](https://user-images.githubusercontent.com/105343665/179649205-5250f82f-2f61-48ec-a99c-6ee7c0152e9d.png)
