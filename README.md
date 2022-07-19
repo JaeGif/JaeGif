@@ -1,4 +1,4 @@
-# I'm learning Fullstack Web Development from the Odin Project, FCC, and self-study of topics I'm interested in.
+-- I'm learning Fullstack Web Development from the Odin Project, FCC, and self-study of topics I'm interested in.
 
 
 # Current Toolbox
