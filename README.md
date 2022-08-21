@@ -11,7 +11,6 @@
 # Currently Learning: Front-End Stack
 
 ![tailwind](https://user-images.githubusercontent.com/105343665/179728166-bf6aa998-b96f-436a-9c73-e3d1a3bcaa33.png)
-![bootstrap](https://user-images.githubusercontent.com/105343665/179728153-8b8949a7-1176-4477-816b-94e9cddddf65.png)
 ![react](https://user-images.githubusercontent.com/105343665/179728163-4edfd222-e201-46e7-afef-1258e1380f21.png)
 
 
