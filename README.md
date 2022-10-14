@@ -6,10 +6,6 @@
 ![python](https://user-images.githubusercontent.com/105343665/179728793-e766c3ed-6a0c-414f-aa95-a08f88af9c1b.png)
 ![CSS3](https://user-images.githubusercontent.com/105343665/179729258-91fc2014-bdef-4baa-a102-8131f14b8f77.png)
 ![HTML](https://user-images.githubusercontent.com/105343665/179728158-51927444-4eb6-453a-9298-3d407d007ace.png)
-
-
-# Currently Learning: Front-End Stack
-
 ![react](https://user-images.githubusercontent.com/105343665/179728163-4edfd222-e201-46e7-afef-1258e1380f21.png)
 
 
