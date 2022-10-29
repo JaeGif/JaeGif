@@ -18,4 +18,4 @@
 ![image](https://user-images.githubusercontent.com/105343665/185776938-4263af2f-e8cf-4099-8b5c-239a1c18b0e4.png)
 
 #
-[![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeGif)](https://github.com/JaeGif/github-readme-stats)
+[![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeGif&show_icons=true&theme=tokyonight)](https://github.com/JaeGif/github-readme-stats)
