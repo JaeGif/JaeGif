@@ -18,7 +18,7 @@
 ![image](https://user-images.githubusercontent.com/105343665/185776938-4263af2f-e8cf-4099-8b5c-239a1c18b0e4.png)
 
 #Stats for Fun
-![](https://komarev.com/ghpvc/?username=JaeGif&color=tokyonight)
+![](https://komarev.com/ghpvc/?username=JaeGif&color=00ffd2)
 [![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeGif&show_icons=true&theme=tokyonight)](https://github.com/JaeGif/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeGif&layout=compact)](https://github.com/JaeGif/github-readme-stats)
