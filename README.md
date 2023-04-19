@@ -5,8 +5,6 @@
 ![javascript](https://user-images.githubusercontent.com/105343665/179728140-a3cbef1f-1c85-47c5-af4d-4e5a2ead2d04.png)
 ![typescript](https://user-images.githubusercontent.com/105343665/179728136-2f21adf4-2c32-4a35-9ddd-e96ebb85d029.png)
 ![python](https://user-images.githubusercontent.com/105343665/179728793-e766c3ed-6a0c-414f-aa95-a08f88af9c1b.png)
-![CSS3](https://user-images.githubusercontent.com/105343665/179729258-91fc2014-bdef-4baa-a102-8131f14b8f77.png)
-![HTML](https://user-images.githubusercontent.com/105343665/179728158-51927444-4eb6-453a-9298-3d407d007ace.png)
 ![react](https://user-images.githubusercontent.com/105343665/179728163-4edfd222-e201-46e7-afef-1258e1380f21.png)
 ![redux](https://user-images.githubusercontent.com/105343665/233004619-e05f9f90-c67f-4e05-a686-6b1a4a46259d.png)
 ![nextjs-original](https://user-images.githubusercontent.com/105343665/233004708-fe5ba0c6-c635-445e-9707-391864803ce5.png)
