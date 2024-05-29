@@ -1,7 +1,6 @@
 ## Hi, I'm Jake, a Creative Full Stack Developer based in Portland, Oregon. Welcome to my GitHub!
 
-![](https://komarev.com/ghpvc/?JaeGif&color=brightgreen&abbreviated=true)
-
+Views: ![](https://hit.yhype.me/github/profile?user_id=105343665)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
