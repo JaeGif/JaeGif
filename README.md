@@ -27,6 +27,6 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeGif&show_icons=true)](https://github.com/JaeGif/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeGif&layout=compact)](https://github.com/JaeGif/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeGif&layout=compact)](https://github.com/JaeGif/github-readme-stats)
 
 
