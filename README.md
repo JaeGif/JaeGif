@@ -1,4 +1,4 @@
-## Hi, I'm Jake, a Creative Full Stack Developer based in Portland, Oregon. Welcome to my GitHub!
+## Hi, I'm Jake, a Full Stack Developer based in Portland, Oregon. Welcome to my GitHub!
 
 ![](https://komarev.com/ghpvc/?username=JaeGif)
 
