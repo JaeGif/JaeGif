@@ -6,7 +6,7 @@ I'm currently searching for full-time opportunities, but am also open to working
 
 __Currently Working on__: Updating my portfolio with ThreeJS projects! 
 
-__Currently Learning__: Yes. (always)
+__Currently Learning__: Golang :)
 
 __Next up__: I have some decent ideas for my next project, likely spec-ing into Django/Flask for this one, stay tuned.
 
