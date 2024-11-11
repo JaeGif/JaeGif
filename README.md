@@ -4,7 +4,7 @@ I'm a Full Stack Developer working primarily with React, JS/TS, Node, and WebSoc
 
 I'm currently searching for full-time opportunities, but am also open to working with new clients! Feel free to reach out to me by email or LinkedIn if you're interested in working with me. I'm happy to call and discuss how I can help your business anytime. 
 
-__Currently Working on__: Updating my portfolio with ThreeJS projects! 
+__Currently Working on__: Marble Game Improvements / CodePDX
 
 __Currently Learning__: Golang :)
 
