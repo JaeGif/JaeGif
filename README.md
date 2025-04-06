@@ -1,19 +1,9 @@
-## Hi, I'm Jake, a Full Stack Developer based in Portland, Oregon. Welcome to my GitHub!
+## Hi, I'm Jake, a Full Stack Developer based in Seattle, Washington. Welcome to my GitHub!
 
-I'm a Full Stack Developer working primarily with React, JS/TS, Node, and WebSockets. I've recently been learning ThreeJS and React Three Fiber to add that sweet _je ne sais quoi_ to my front ends. While my favorite aspects of development are creative and sleek front-end effects, I wouldn't feel complete without crafting my own API's/servers as needed. 
+I'm a Full Stack Developer working primarily with React, JS/TS, Node, Java, Springboot, and WebSockets.
 
-I'm currently searching for full-time opportunities, but am also open to working with new clients! Feel free to reach out to me by email or LinkedIn if you're interested in working with me. I'm happy to call and discuss how I can help your business anytime. 
+I'm not currently searching for work, but feel free to reach out on LinkedIn or email.
 
-__Currently Working on__: Marble Game Improvements / CodePDX
-
-__Currently Learning__: Golang :)
-
-__Next up__: I have some decent ideas for my next project, likely spec-ing into Django/Flask for this one, stay tuned.
-
-__Often Found__: Contributing to CodePDX projects / The Odin Project Discord
-
-
-If I don't have recent contributions, that's because I'm working on something super secret off main ;)
 
 ![](https://komarev.com/ghpvc/?username=JaeGif)
 
